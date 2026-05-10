@@ -4,3 +4,11 @@ Created a Power BI dashboard to analyze pizza sales, revenue trends, and custome
 
 ## Dataset Used
 - <a href="https://github.com/Gangaraj46/Data-Analysis-Dashboard/blob/main/Dataset.xlsx">Dataset</a>
+
+## Key Topics Covered 
+- Data import and cleaning using Power Query
+- Creating interactive dashboards and reports
+- Sales analysis and performance metrics
+- Customer segmentation and preferences
+- Top-selling pizzas and popular toppings
+- Advanced visualizations and data storytelling techniques
